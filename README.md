@@ -97,11 +97,3 @@ You can test the API using tools like **Postman** or **curl** to make requests t
 ## Contributing
 
 Feel free to fork the repository, create an issue, or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides the essential setup and usage instructions for your project. You can modify it as needed, especially for the `MONGO_URI` and `REDIS_URL` fields in the `.env` configuration.
