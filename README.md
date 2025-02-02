@@ -1,7 +1,3 @@
-Here is a README file that you can add to your GitHub repository based on the code you provided:
-
----
-
 # FAQ Server API
 
 This is a backend API built with **Express.js**, **MongoDB**, and **Redis**. It provides an endpoint for managing Frequently Asked Questions (FAQs) using MongoDB for data storage and Redis for caching. The API can be extended to include more routes and features as needed.
